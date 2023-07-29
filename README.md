@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-![Tic-Tac-Toe](tictactoe_screenshot.png)
+
 
 ## Description
 
