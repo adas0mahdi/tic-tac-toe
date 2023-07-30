@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-![Tic-Tac-Toe](tictactoe_screenshot.png)
+
 
 ## Description
 
@@ -39,3 +39,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact
 If you have any questions, suggestions, or just want to say hi, feel free to contact the project maintainers at [adas0mahdi@gmail.com].
+
+```
+
+<br>
+<br>
+<br>
+<br>
+ 
+. 
+![Screenshot](./Play.png)
